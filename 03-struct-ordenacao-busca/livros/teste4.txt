@@ -1,0 +1,15 @@
+6
+50 Helena 1876
+15 Luciola 1862
+40 Memorias 1881
+5 Senhora 1875
+25 Iracema 1865
+60 Quincas 1891
+5
+60
+25
+40
+1
+30
+70
+0

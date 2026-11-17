@@ -1,0 +1,11 @@
+3
+30 Dom_Casmurro 1899
+10 Iracema 1865
+20 O_Cortico 1890
+10
+30
+20
+5
+25
+40
+0
